@@ -22,4 +22,7 @@ The program allows the user to add, update, delete, and search employees using a
 - `Main` – handles user input and menu navigation  
 - Input validation  
 - Better error handling  
-- GUI or web interface  
+- GUI or web interface
+
+## Note
+This is a simple console-based project intended as a learning exercise and a basic skeleton for an employee management application. It demonstrates core Java, object-oriented programming, and basic CRUD operations, but it is not production-ready.
